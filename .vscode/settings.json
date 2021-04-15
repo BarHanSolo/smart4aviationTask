@@ -1,0 +1,10 @@
+{
+    "java.project.referencedLibraries": {
+        "include": [
+            "lib/**/*.jar"
+        ],
+        "exclude": [
+            "c:\\Users\\andrz\\Downloads\\jar_files\\gson-2.8.2.jar"
+        ]
+    }
+}
